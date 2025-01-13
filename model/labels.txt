@@ -1,0 +1,202 @@
+Vehicles
+Person
+Bicycle
+Car
+Motorbike
+Bus
+Train
+Truck
+Boat
+Airplane
+Helicopter
+Scooter
+Skateboard
+Traffic & Infrastructure
+Traffic Light
+Fire Hydrant
+Stop Sign
+Parking Meter
+Bench
+Building
+Streetlight
+Traffic Sign
+Road
+Sidewalk
+Tunnel
+Bridge
+Fence
+Animals
+Bird
+Cat
+Dog
+Horse
+Sheep
+Tiger
+Snake
+Crocodile
+Cow
+Elephant
+Bear
+Zebra
+Giraffe
+Lion
+Rabbit
+Fish
+Chicken
+Duck
+Goat
+Kangaroo
+Whale
+Dolphin
+Household Objects
+Backpack
+Umbrella
+Handbag
+Suitcase
+Tie
+Wallet
+Glasses
+Hat
+Scarf
+Shoes
+Socks
+Pants
+Shirt
+Jacket
+Sweater
+Gloves
+Scissors
+Cup
+Bottle
+Plate
+Bowl
+Fork
+Knife
+Spoon
+Towel
+Sports & Outdoor Equipment
+Frisbee
+Skis
+Snowboard
+Sports Ball
+Kite
+Baseball Bat
+Baseball Glove
+Skateboard
+Surfboard
+Tennis Racket
+Cricket Bat
+Cricket Ball
+Football
+Golf Club
+Volleyball
+Hockey Stick
+Tennis Ball
+Ping Pong Paddle
+Bowling Ball
+Food & Drinks
+Bottle
+Wine Glass
+Cup
+Fork
+Knife
+Spoon
+Bowl
+Banana
+Apple
+Mango
+Strawberry
+Cake
+Watermelon
+Sandwich
+Orange
+Broccoli
+Carrot
+Hot Dog
+Pizza
+Donut
+Grapes
+Pineapple
+Cucumber
+Potato
+Egg
+Furniture & Appliances
+Chair
+Sofa
+Potted Plant
+Bed
+Dining Table
+Toilet
+TV Monitor
+Laptop
+Mouse
+Remote
+Keyboard
+Cell Phone
+Microwave
+Oven
+Toaster
+Sink
+Refrigerator
+Washing Machine
+Blender
+Dishwasher
+Trash Can
+Lamp
+Desk
+Book
+Clock
+Vase
+Electronics
+Laptop
+Monitor
+Keyboard
+Mouse
+Cell Phone
+Remote
+Television
+Radio
+Camera
+Headphones
+Speaker
+Laptop Charger
+Microwave
+Tools & Hardware
+Hammer
+Screwdriver
+Wrench
+Pliers
+Tape Measure
+Drill
+Scissors
+Nails
+Paintbrush
+Ladder
+Saw
+Toolbox
+Screwdriver Set
+Rope
+Miscellaneous
+Clock
+Scissors
+Teddy Bear
+Hair Dryer
+Toothbrush
+Perfume
+Vase
+Poster
+Painting
+Mirror
+Trash Can
+Vacuum Cleaner
+Other Objects
+Newspaper
+Magazine
+Book
+Bottle
+Laptop
+Phone
+Box
+Cup
+Ball
+Wallet
